@@ -1,0 +1,18 @@
+/*selector universal(*) modifica todos los estilos a la pagina*/
+*{
+    text-align: left;
+    color: blueviolet;
+    background-color: aquamarine;
+ }
+ #parrafoVerde {
+                text-align: center;
+                color: green;
+                font-style: oblique;
+
+ }
+ p:first-child {
+    color: rgb(255, 127, 185);
+    
+
+ }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
